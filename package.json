@@ -1,0 +1,23 @@
+{
+  "name": "dootbot",
+  "version": "1.0.0",
+  "description": "random discord bot project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RJRico17/dootbot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RJRico17/dootbot/issues"
+  },
+  "homepage": "https://github.com/RJRico17/dootbot#readme",
+  "dependencies": {
+    "discord.js": "^14.18.0"
+  }
+}
